@@ -143,3 +143,19 @@ padding: 5px 20px;
   transition: 1s all;
   cursor: pointer;
 }
+
+.enviar:hover {
+  background: darkorange;
+  transform: scale(1.2);
+
+}
+
+table {
+  margin: 20px 0 40px;
+}
+
+thead {
+  nackground: #555555;
+  color: white;
+  font-weight: bold;
+}
